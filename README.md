@@ -1,18 +1,51 @@
-# study_buddy
+# StudyBuddy
 
-A new Flutter project.
+StudyBuddy is a simple Flutter mobile UI project created during the GDG LASU Beginner Mobile Development Bootcamp.
+
+The project is designed as a practical example for learning how basic Flutter widgets can be combined to build a mobile app screen.
+
+## Current Screen
+
+## Screenshot
+
+![StudyBuddy app dashboard](screenshots/study-buddy-screenshot.png)
+
+The current screen includes:
+
+- A simple AppBar with the StudyBuddy title and notification icon
+- A personalized greeting section
+- A "Continue Learning" section
+- Quick action cards for Lessons and Tasks
+- Basic spacing, padding, colors, and text styling
+
+The current version focuses on the user interface only. The buttons and sections are not connected to any real functionality yet.
+
+## What This Project Demonstrates
+
+This project uses basic Flutter widgets such as:
+
+- `MaterialApp`
+- `Scaffold`
+- `AppBar`
+- `Text`
+- `Icon`
+- `Container`
+- `Padding`
+- `SizedBox`
+- `Row`
+- `Column`
+
+It is intended to help beginners understand how Flutter widgets are structured and combined to create a mobile screen.
+
+## Tech Stack
+
+- Flutter
+- Dart
+- Material Design
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### 1. Clone the repository
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# study-buddy-flutter
+```bash
+git clone https://github.com/Shakirullah-builds/study-buddy-flutter.git
